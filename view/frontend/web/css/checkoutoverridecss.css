@@ -1,0 +1,12 @@
+/*
+#checkout-shipping-method-load .table-checkout-shipping-method tbody tr.row ~ .row {
+    display: none;
+}
+*/
+.checkout-shipping-method .step-title {
+	 display: none;
+}
+
+div#checkout-shipping-method-load {
+    display: none;
+}

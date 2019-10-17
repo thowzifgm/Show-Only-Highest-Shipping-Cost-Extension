@@ -1,0 +1,12 @@
+/*
+#co-shipping-method-form dl.items.methods dt.item-title ~ .item-title {
+    display: none;
+}
+
+#co-shipping-method-form dl.items.methods dd.item-options ~ .item-options {
+    display: none;
+}
+*/
+form#co-shipping-method-form {
+    display: none;
+}
